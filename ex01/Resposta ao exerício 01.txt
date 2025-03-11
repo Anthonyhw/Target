@@ -1,0 +1,1 @@
+O código mostrado representa uma progressão aritmética, onde se é somado os números de 1 até 13. Ao fim da execução, o valor contido na variável soma será 91.
